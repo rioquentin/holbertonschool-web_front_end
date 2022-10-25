@@ -318,7 +318,7 @@ ul.row {
     overflow: hidden;
 }
 
-.card-work .card-image image{
+.card-work .card-image img{
     height: 30rem;
     width: 100%;
     object-fit: cover;
@@ -334,7 +334,7 @@ ul.row {
 }
 
 .card-work:hover .card-inner {
-    background-color: rgba(0, 0, 0, 0, 7);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .card-work .card-title a{
