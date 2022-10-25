@@ -148,9 +148,6 @@ ul.row {
     color: var(--text-color);
 }
 
-.footer ul{
-    text-align: right;
-}
 
 :root {
     --color-primary: #d73953;
@@ -193,4 +190,8 @@ ul.row {
 
 .footer {
     padding: var(--footer-padding);
+}
+
+.footer, ul {
+    text-align: right;
 }
